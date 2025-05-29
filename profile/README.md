@@ -10,6 +10,7 @@ AI 기반 영화 검색 및 추천 플랫폼 **Filmus**는 사용자의 취향�
 > **배포**: AWS EC2, RDS, S3, CloudFront · GitHub Actions CI/CD
 
 👉 [Filmus 서비스 바로가기](https://filmus.o-r.kr)
+
 ---
 
 ## 📌 주요 기능
