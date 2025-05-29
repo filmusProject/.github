@@ -1,14 +1,15 @@
 # 🎬 Filmus
 
 AI 기반 영화 검색 및 추천 플랫폼 **Filmus**는 사용자의 취향과 줄거리 키워드를 분석해  
-영화를 탐색하고 추천받을 수 있는 웹 서비스입니다.  
+[영화 검색](https://filmus.o-r.kr/search) 및 [줄거리 기반 추천](https://filmus.o-r.kr/plot-search)을 제공하는 웹 서비스입니다.  
 검색 기능, 줄거리 기반 추천, 찜/리뷰 작성까지 통합된 사용자 경험을 제공합니다.
 
-> 백엔드: Spring Boot · MySQL · JWT 인증  
-> 프론트엔드: React · TypeScript · Tailwind CSS  
-> NLP 서버: Python · SBERT · Flask API  
-> 배포: AWS EC2, RDS, S3, CloudFront · GitHub Actions CI/CD
+> **백엔드**: Spring Boot · MySQL · JWT 인증  
+> **프론트엔드**: React · TypeScript · Tailwind CSS  
+> **NLP 서버**: Python · SBERT · Flask API  
+> **배포**: AWS EC2, RDS, S3, CloudFront · GitHub Actions CI/CD
 
+👉 [Filmus 서비스 바로가기](https://filmus.o-r.kr)
 ---
 
 ## 📌 주요 기능
